@@ -1,5 +1,5 @@
-# Weather_App
-WAFA: Weather Application For Analysts
+# WAFA: Weather Application For Analysts
+
 This Web-application aims to help users in extracting weather's forecast data from particular areas in the Philippines through an API.
 
 API: https://rapidapi.com/weatherapi/api/weatherapi-com/
