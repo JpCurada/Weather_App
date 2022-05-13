@@ -21,7 +21,7 @@ This project is just a practice of mine.
 
 I am open for constructive criticisms and your feed back will be highly appreciated.
 
-Contact me:
-Gmail: johncurada.02@gmail.com
+Contact me:\n
+Gmail: johncurada.02@gmail.com\n
 Twitter: https://twitter.com/JeypiiLearns
 
