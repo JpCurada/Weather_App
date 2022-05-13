@@ -4,7 +4,7 @@ This Web-application aims to help users in extracting weather's forecast data fr
 
 API: https://rapidapi.com/weatherapi/api/weatherapi-com/
 
-Areas Included:
+Areas Included: (City, Province, Country)
 1. Cabanatuan - Cabanatuan City, Nueva Ecija, Philippines
 2. Manila - Manila, NCR, Philippines
 3. Baguio - Baguio, Benguet, Philippines
@@ -20,4 +20,8 @@ Note:
 This project is just a practice of mine. 
 
 I am open for constructive criticisms and your feed back will be highly appreciated.
+
+Contact me:
+Gmail: johncurada.02@gmail.com
+Twitter: https://twitter.com/JeypiiLearns
 
