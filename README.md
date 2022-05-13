@@ -2,7 +2,10 @@
 
 This Web-application aims to help users in extracting weather's forecast data from particular areas in the Philippines through an API.
 
+Web-app: https://share.streamlit.io/jpcurada/weather_app/main/weather_web_app.py
+
 API: https://rapidapi.com/weatherapi/api/weatherapi-com/
+
 
 Areas Included: (City, Province, Country)
 1. Cabanatuan - Cabanatuan City, Nueva Ecija, Philippines
