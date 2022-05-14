@@ -82,7 +82,7 @@ def location_weather_details(df_details):
 def get_day_forecast(df):
     time_of_the_day = response['forecast']['forecastday'][0]['hour']
     for idx, hour in enumerate(time_of_the_day):
-        time = time_of_the_day[idx]['time'].split(' ').strip()
+        time = time_of_the_day[idx]['time'].split(' ')
         time = datetime.strptime(time[1],'%H:%M').strftime('%I:%M %p')
         temperature_c = time_of_the_day[idx]['temp_c']
         heat_index_c = time_of_the_day[idx]['heatindex_c']
